@@ -22,3 +22,8 @@ h1 {
     background:url(images/jack.jpg) fixed no-repeat bottom right;
   }
 }
+.list li
+{
+	font-size: 15px;
+	display : block;
+}
