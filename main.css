@@ -1,0 +1,24 @@
+ul li {
+  display: inline;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+@font-face {
+  font-family: "Pirate";
+  src: url('pieces-of-eight.ttf');
+}
+
+h1 {
+  font-size: 65px;
+  font-family: "Pirate";
+}
+.paypal
+{
+	margin: auto;
+}
+@media screen and (min-width: 1200px) {
+  body {
+    background:url(images/jack.jpg) fixed no-repeat bottom right;
+  }
+}
